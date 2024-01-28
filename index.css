@@ -1,0 +1,17 @@
+.one {
+  border: 2px solid red;
+  width: 50%;
+  height: 50%;
+  color: blue; /*for text color*/
+  /* text-align: left; for text position (left(default), center,right)* justify cover all space */
+  line-height: 20px; /*distance between two lines text*/
+  direction: ltr; /*ltr:left to right and rtl:right to left*/
+  text-decoration: line-through; /*line-through,underline,overline*/
+}
+
+img {
+  height: 70px;
+  width: 70px;
+  border: 1px solid black;
+  vertical-align: middle; /*three values top middle bottom  */
+}
